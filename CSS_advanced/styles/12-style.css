@@ -36,10 +36,9 @@ body {
     line-height: var(--line-height-base);
 }
 
-a:link {
+a {
     color: var(--text-color);
     text-decoration: none;
-    
 }
 
 .visually-hidden {
@@ -73,14 +72,4 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--section-title-color);
 }
 
-a:visited {
-    font-style: italic;
-}
 
-a:hover {
-    text-decoration: underline;
-}
-
-a:active {
-    background-color: var(--color-light-grey);
-}
