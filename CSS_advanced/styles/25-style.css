@@ -337,7 +337,6 @@ html {
     --button-hover-color: var(--color-white);
     --button-hover-text-decoration: none;
     --button-hover-background: var(--color-primary);
-    --button-color: var(--color-white);
 }
 
 body {
@@ -507,6 +506,7 @@ ul.row {
     background-color: var(--color-black);
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
+    --button-color: color-white;
 }
 
 .footer-address {
