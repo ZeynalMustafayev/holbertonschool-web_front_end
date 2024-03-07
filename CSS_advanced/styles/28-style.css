@@ -573,7 +573,7 @@ ul.row {
 }
 
 .selector {
-    pad: var(--header-padding);
+    padding: var(--header-padding);
 }
 
 .header-logo {
