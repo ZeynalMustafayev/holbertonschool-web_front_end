@@ -361,7 +361,7 @@ ul.row {
 }
 
 .button:hover {
-    transition: var(--transition-duration), background-color var(--transition-duration);
+    transition: color var(--transition-duration), background-color var(--transition-duration);
 }
 
 .card-work .card-image {
@@ -369,7 +369,7 @@ ul.row {
 }
 
 .card-work .card-inner {
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .section-hero {
