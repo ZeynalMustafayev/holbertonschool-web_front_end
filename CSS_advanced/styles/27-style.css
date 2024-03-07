@@ -554,9 +554,7 @@ ul.row {
 }
 
 .section-hero {
-    background-size: 2rem;
-    width: 90rem;
-    height: auto;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title {
@@ -564,8 +562,5 @@ ul.row {
 }
 
 .section-hero .section-inner {
-    padding-top: 10rem;
-    padding-right: 40rem;
-    padding-bottom: 2rem;
-    padding-left: 0;
+    padding: 10rem 40rem 2rem 0;
 }
